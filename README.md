@@ -1,2 +1,3 @@
 # hello-world
-Dit is die test project
+Dit een aap met bananen.
+Dit is een haas met een baas
